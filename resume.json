@@ -1,0 +1,276 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Roman Gnatyuk",
+    "label": "Tech Lead, DevOps, Engineer",
+    "email": "fozzy@hackers.net.ua",
+    "phone": "+380 (95) 862-74-26",
+    "picture": "https://media-exp1.licdn.com/dms/image/C4D03AQHqKgtWWLh6HQ/profile-displayphoto-shrink_400_400/0/1613630238623?e=1625097600&v=beta&t=cBHQa8Tzf0JI070b9AZAMg3yO_Or8dM7xpsCLEgj3t4",
+    "url": "https://fozzy.hackers.net.ua",
+    "summary": "7+ years experienced software Engineer, 4+ years experienced DevOps Engineer possessing in-depth experience managing cloud-based technology & effectively handling configuration & deployment of infrastructure & services. Gained hands-on experience in implementing core DevOps concepts such as containerization, virtualization, version control, cloud computing, database management & administration, load balancing, etc. using a wide variety of technologies while working with multiple DBMS, Operating Systems & programming languages. Adept at learning and implementing new technologies very swiftly as demonstrated by the transition from a NodeJS/RoR Developer to a DevOps professional. Drives excellence in every project to deliver outstanding results.",
+    "location": {
+      "city": "Kyiv",
+      "country": "Ukraine",
+      "countryCode": "UA"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "fozzyan",
+        "url": "https://www.linkedin.com/in/fozzyan/"
+      },
+      {
+        "network": "GitHub",
+        "username": "dr-fozzy",
+        "url": "https://github.com/dr-fozzy"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "KIT CODE",
+      "company": "KIT CODE",
+      "position": "TechLead, Lead DevOps Engineer",
+      "url": "https://kitcode.dev/",
+      "startDate": "2018-05-01",
+      "endDate": "2019-11-01",
+      "summary": "During my job experience, I had practical skills with interesting technologies, tasks, people. The whole role of my engineering practice includes building and supporting web SaaS solutions based on Linux/Unix platform in a cloud (GCP/DO) and on-premise, experience on server infrastructure migration, monitoring and securing, and Linux Server setup/administration. Takes the form part in automating, supporting, and ensuring CI/CD in product development.",
+      "highlights": [
+        "Successfully migrated whole business infrastructure from VMWare vSphere bare-metal cloud to GCP/Kubernetes in short terms with zero-downtime.",
+        "Created and implemented new CI/CD strategy and workflow, as well as new DevOps strategies.",
+        "Created and implemented a new strategy of monitoring and incident reaction workflow.",
+        "Optimized networking and topology of microservices to reduce usage and improve latency and HA.",
+        "Helped developers to optimize/decompose services for better scaling"
+      ]
+    },
+    {
+      "name": "E-Sport Lab",
+      "company": "E-Sport Lab",
+      "position": "Lead DevOps Engineer",
+      "startDate": "2016-07-01",
+      "endDate": "2018-05-01",
+      "summary": "Being invited to a startup, my task was to develop and implement the entire infrastructure and DevOps and CI / CD workflow for a project. As well as advise developers and teach them bleeding edge practices.",
+      "highlights": [
+        "Built, maintained, and scaled infrastructure for production, QA and dev environments for a web app that grew to 4 million monthly users.",
+        "Owned production alerts and acted as the point of contact for all infrastructure incidents.",
+        "Implemented and maintained CI/CD systems for various platforms, leading to an improvement in the time to ship new feature releases by 80%.",
+        "Develop automation processes to enable teams to deploy, manage, configure, scale and monitor their applications through the use of tooling or scripting reducing the time to get features in production by 50%.",
+        "Fostered a culture of robust documentation as it pertained to release processes and CI/CD as well as gitflow workflow.",
+        "Saved the company from bankruptcy by explaining to investors why they needed to put more money in backups.",
+        "Mentored software engineers working under me leading to promotions of all 6 team members during my tenure"
+      ]
+    },
+    {
+      "name": "LevelUP",
+      "company": "LevelUP",
+      "endDate": "2016-06-01",
+      "position": "Senior Software Developer, DevOps Engineer",
+      "startDate": "2013-11-01",
+      "summary": "Highload distributed Node.js backend with amqp and redis for web parsing & analytics.\nRuby/Rails frontend"
+    },
+    {
+      "name": "Cyberarena",
+      "company": "Cyberarena",
+      "endDate": "2013-10-01",
+      "position": "Middle Full Stack Developer",
+      "startDate": "2011-11-01",
+      "summary": "Creation of social network for cybersport, tournament system management, video translations integrations"
+    },
+    {
+      "name": "Developer",
+      "company": "Developer",
+      "endDate": "2011-10-01",
+      "position": "Sowtware Developer",
+      "startDate": "2008-09-01",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Virtualization/Clouds",
+      "level": "Advanced",
+      "keywords": [
+        "VMWare",
+        "Kubernetes",
+        "Google Cloud Platform",
+        "Digital Ocean",
+        "AWS",
+        "OpenStack"
+      ]
+    },
+    {
+      "name": "Linux/Unix",
+      "level": "Master",
+      "keywords": [
+        "Gentoo",
+        "ArchLinux",
+        "Debian",
+        "Ubuntu",
+        "Shell",
+        "Scripting",
+        "Networking",
+        "Kernel",
+        "Security"
+      ]
+    },
+    {
+      "name": "Network",
+      "level": "Master",
+      "keywords": [
+        "L1-L7",
+        "TCP/IP",
+        "Hardware",
+        "Mikrotik",
+        "RouterOS",
+        "Cisco",
+        "Linksys",
+        "Routing",
+        "DNS",
+        "DHCP",
+        "POP/SMTP",
+        "BGP",
+        "OSPF",
+        "IPSec",
+        "Security"
+      ]
+    },
+    {
+      "name": "DB",
+      "level": "Master",
+      "keywords": [
+        "PostgreSQL",
+        "MySQL Percona/MariaDB",
+        "Redis",
+        "MongoDB",
+        "Clickhouse"
+      ]
+    },
+    {
+      "name": "Web",
+      "level": "Master",
+      "keywords": [
+        "Nginx",
+        "Apache",
+        "HAProxy",
+        "Varnish",
+        "Puma",
+        "SSL",
+        "Load alancing",
+        "Proxy/ReverseProxy",
+        "High availability",
+        "High load"
+      ]
+    },
+    {
+      "name": "AMQP",
+      "level": "Master",
+      "keywords": [
+        "RabbitMQ",
+        "Kafka",
+        "Federation",
+        "Clustering",
+        "High availability",
+        "High load"
+      ]
+    },
+    {
+      "name": "CI/CD/VCS/Automation",
+      "level": "Master",
+      "keywords": [
+        "Jenkins",
+        "Puppet",
+        "Ansible",
+        "Chef",
+        "etcd",
+        "GitLab",
+        "Git",
+        "Gitflow",
+        "SVN"
+      ]
+    },
+    {
+      "name": "Logging/Monitoring",
+      "level": "Advanced",
+      "keywords": [
+        "Elasticsearch",
+        "Logstash",
+        "Kibana",
+        "Fluentd",
+        "Graphana",
+        "Zabbix",
+        "PRTG",
+        "Nagios"
+        
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Intermediate",
+      "language": "English"
+    },
+    {
+      "fluency": "Master",
+      "language": "Ukrainian"
+    },
+    {
+      "fluency": "Master",
+      "language": "Russian"
+    }
+  ],
+  "education": [
+    {
+      "area": "Information Security",
+      "courses": [
+        "6.170101 - Information and communication system security"
+      ],
+      "endDate": "2009-01-01",
+      "institution": "National Aviation University",
+      "startDate": "2007-01-01"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Cybersecurity",
+      "keywords": [
+        "Network security",
+        "Bug hunting",
+        "Research"
+      ]
+    },
+    {
+      "name": "IoT",
+      "keywords": [
+        "Firmware",
+        "Automation",
+        "Smart Home"
+      ]
+    },
+    {
+      "name": "Outdoors",
+      "keywords": [
+        "Fishing",
+        "Camping",
+        "Backpacking"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "People’s Project",
+      "position": "Volounteer, Donator",
+      "url": "https://www.peoplesproject.com/",
+      "summary": "Ukraine’s military and civil crowdfunding",
+      "startDate": "2015",
+      "highlights": [
+        "Bioengineering Rehabilitation for Wounded",
+        "First People’s UAV Complex"
+      ]
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2021-04-28T15:53:00"
+  }
+}
